@@ -1,0 +1,3 @@
+- Created server action for fetching data from api on both client and server components
+- Implemented Infinite Scroll functionality
+- Implemented Framer motion animations
